@@ -16,4 +16,8 @@ public class Factorial {
 		}
 		return aux;
 	}
+
+	public double factorialRecursiu(int i) {
+		return 0;
+	}
 }
